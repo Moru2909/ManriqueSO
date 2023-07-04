@@ -1,0 +1,40 @@
+INVESTIGACIÒN 
+
+¿Qué es GitHub?
+GitHub es una plataforma en línea que brinda servicios de alojamiento y gestión de repositorios de código fuente.
+Permite a los desarrolladores colaborar en proyectos, realizar un seguimiento de los cambios en el código, 
+administrar problemas y llevar un registro de las versiones. GitHub utiliza el sistema de control de versiones Git, 
+que facilita la colaboración entre equipos de desarrollo. Además del alojamiento de repositorios, 
+GitHub también ofrece características adicionales como seguimiento de problemas, solicitudes de extracción, 
+wikis y otras herramientas que facilitan la gestión de proyectos de desarrollo de software.
+
+¿Qué es Docker?
+Docker es una plataforma de código abierto que utiliza contenedores para permitir la creación, 
+implementación y ejecución de aplicaciones de manera eficiente y portátil. 
+Los contenedores son entornos livianos y autónomos que encapsulan una aplicación junto 
+con todas las dependencias y configuraciones necesarias para su funcionamiento correcto. 
+Esto proporciona una forma consistente de ejecutar aplicaciones en diferentes entornos, 
+ya sea en una máquina local, en servidores en la nube o en clústeres de orquestación.
+
+Docker simplifica el proceso de desarrollo y despliegue de aplicaciones 
+al proporcionar una forma estandarizada de empaquetar y distribuir software. 
+Permite a los desarrolladores crear imágenes de contenedores que pueden ejecutarse en cualquier entorno compatible con Docker, 
+eliminando así las inconsistencias y los problemas de dependencia que a menudo se encuentran al mover aplicaciones 
+entre diferentes sistemas.
+
+¿Qué es Google Cloud?
+Google Cloud es una plataforma de servicios en la nube proporcionada por Google. 
+Ofrece una amplia gama de servicios que incluyen almacenamiento de datos, cómputo, aprendizaje automático, 
+análisis de datos, desarrollo de aplicaciones, redes y más. Google Cloud permite a las empresas y a los desarrolladores crear, 
+implementar y escalar aplicaciones y servicios utilizando la infraestructura global de Google.
+La plataforma Google Cloud proporciona servicios como Google Compute Engine (máquinas virtuales), 
+Google Kubernetes Engine (orquestación de contenedores), Google Cloud Storage (almacenamiento de objetos), 
+Google Cloud BigQuery (almacenamiento y análisis de datos a gran escala), 
+Google Cloud AI (inteligencia artificial y aprendizaje automático) y muchos otros servicios.
+
+Google Cloud se utiliza ampliamente en diversas industrias para ejecutar aplicaciones, 
+almacenar y analizar datos, implementar servicios web y desarrollar soluciones empresariales. 
+Además, ofrece herramientas y recursos para ayudar a los desarrolladores y empresas a administrar y controlar 
+su infraestructura en la nube de manera eficiente y segura.
+
+:)
